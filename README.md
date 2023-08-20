@@ -6,12 +6,9 @@ Open time is fastly improved when using many mods with lots of equipment.
 
 ## Before
 
-<video width="500" autoplay loop muted>
-    <source src="docs/before.webm" type="video/webm">
-</video>
+[before.webm](https://github.com/BrettMayson/Arma-AttributesFastLoad/assets/3946739/45e86752-d605-438b-8469-fd5e71720776)
 
 ## After
 
-<video width="500" autoplay loop muted>
-    <source src="docs/after.webm" type="video/webm">
-</video>
+[after.webm](https://github.com/BrettMayson/Arma-AttributesFastLoad/assets/3946739/0dce7132-ac85-4b57-beef-11a15753fef1)
+
