@@ -1,0 +1,12 @@
+name = "3DEN Attribues Fix"
+prefix = "3den_attributes_fix"
+author = "Brett Mayson"
+mainprefix = "z"
+
+[version]
+git_hash = 0 # Disabled
+major = 1
+minor = 0
+patch = 1
+
+[hemtt.launch.default]
