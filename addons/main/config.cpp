@@ -1,6 +1,6 @@
 class CfgPatches {
-    class 3den_attributes_fix {
-        name = "3den_attributes_fix";
+    class 3den_attributes_fast_load {
+        name = "3den_attributes_fast_load";
         units[] = {};
         weapons[] = {};
         requiredVersion = 2.10;
@@ -8,7 +8,7 @@ class CfgPatches {
         authors[] = {"Brett Mayson"};
         author = "Brett Mayson";
         version = 1.0;
-        versionStr = "1.0.1";
-        versionAr[] = {1,0,1};
+        versionStr = "1.0.0";
+        versionAr[] = {1,0,0};
     };
 };

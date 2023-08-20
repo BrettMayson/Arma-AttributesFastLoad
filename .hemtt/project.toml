@@ -1,12 +1,15 @@
-name = "3DEN Attribues Fix"
-prefix = "3den_attributes_fix"
+name = "3DEN Attribues Fast Load"
+prefix = "3den_attributes_fast_laod"
 author = "Brett Mayson"
-mainprefix = "z"
+mainprefix = "a3"
 
 [version]
 git_hash = 0 # Disabled
 major = 1
 minor = 0
-patch = 1
+patch = 0
 
 [hemtt.launch.default]
+workshop = [
+    "2871002081"
+]
