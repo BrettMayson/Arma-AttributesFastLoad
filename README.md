@@ -1,6 +1,6 @@
 # Arma 3 Attributes Fast Load
 
-[workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3023395342)
+[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3023395342)
 
 Simple mod that patches the file that loads the equipment storage attributes.
 
